@@ -1,6 +1,7 @@
 # 📘 Facebook Clone
 
 A responsive **Facebook-style clone** built with **HTML**, **CSS**, and **JavaScript**. This project focuses on front-end layout and design to replicate the look and feel of Facebook on modern mobile and desktop screens.
+[Facebook Clone - Live Website](https://mohamadxh.github.io/Facebook_Clone/)
 
 ## 🌐 Live Demo
 Coming soon (or insert your link here if deployed)
